@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Majlinda Kelmendi",
+    "date": "2004-07-03",
+    "city": "Kosova"
+  },
+  {
+    "id": 2,
+    "name": "Nushi Hajdari",
+    "date": "1222-02-09",
+    "city": "Podujeve"
+  },
+  {
+    "id": 3,
+    "name": "Jane Doe",
+    "date": "1989-07-03",
+    "city": "San Francisco"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "date": "1991-07-03",
+    "city": "Boston"
+  },
+  {
+    "id": 5,
+    "name": "Tom Nguyen",
+    "date": "1992-07-03",
+    "city": "Atlanta"
+  },
+  {
+    "id": 6,
+    "name": "Cindy Chen",
+    "date": "1993-07-03",
+    "city": "Houston"
+  },
+  {
+    "id": 7,
+    "name": "Donald Trmup",
+    "date": "1993-07-03",
+    "city": "Houston"
+  },
+  {
+    "id": 8,
+    "name": "Joe Biden",
+    "date": "1993-07-03",
+    "city": "Houston"
+  },
+  {
+    "id": 9,
+    "name": "Mark Twain",
+    "date": "1994-07-03",
+    "city": "Shkodër"
+  },
+  {
+    "id": 10,
+    "name": "Thomas Michelangelo",
+    "date": "1995-07-03",
+    "city": "Shkodër"
+  },
+  {
+    "id": 11,
+    "name": "Elsa Jane",
+    "date": "1996-07-03",
+    "city": "Shkodër"
+  },
+  {
+    "id": 12,
+    "name": "Alice Johnson",
+    "date": "1997-07-03",
+    "city": "Los Angeles"
+  },
+  {
+    "id": 14,
+    "name": "Mike Brown",
+    "date": "1998-07-03",
+    "city": "Seattle"
+  },
+  {
+    "id": 15,
+    "name": "Dardi Shala",
+    "date": "2009-11-29",
+    "city": "te gardeni"
+  },
+  {
+    "id": 19,
+    "name": "Brock Lesnar",
+    "date": "2002-09-08",
+    "city": "Usa"
+  }
+]
